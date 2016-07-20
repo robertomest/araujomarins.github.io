@@ -4,9 +4,9 @@ title: Sobre
 permalink: /about/
 ---
 
-Olá, meu nome é **Igor Quintanilha** e atualmente sou estudante de mestrado pelo [Programa de Engenharia Elétrica](http://www.pee.ufrj.br) pelo [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE) da Universidade Federal do Rio de Janeiro (UFRJ).
+Olá, meu nome é **Igor Quintanilha** e atualmente sou estudante de mestrado no [Programa de Engenharia Elétrica](http://www.pee.ufrj.br) pertencente ao [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE) da Universidade Federal do Rio de Janeiro (UFRJ).
 
-Atualmente, meu interesse é no estudo e aplicações de técnicas em **deep learning**, focando especialmente na parte de *transcrição automática de voz*.
+Meu interesse é no estudo e aplicações de técnicas em **deep learning**, focando especialmente na parte de *transcrição automática de voz*.
 
 Criei esse blog para transmitir o conhecimento que estou adquirindo ao longo dessa empreitada, e assim, facilitar a vida de outros pesquisadores.
 
