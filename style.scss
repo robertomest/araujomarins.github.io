@@ -19,8 +19,10 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px $helvetica;
   color: $darkGray;
+  line-height: 1.5;
+  font-weight: 300;
 }
 
 .container {
@@ -33,7 +35,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
+  // font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -281,6 +283,103 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+/* --- Tables --- */
+
+table {
+    padding: 0;
+    margin: 0 auto;
+    tr {
+      border-top: 1px solid #cccccc;
+      background-color: #ffffff;
+      margin: 0;
+      padding: 0;
+      :nth-child(2n) {
+        background-color: #f8f8f8;
+      }
+      th {
+        font-weight: bold;
+        border: 1px solid #cccccc;
+        text-align: left;
+        margin: 0;
+        padding: 6px 13px;
+      }
+      td {
+        border: 1px solid #cccccc;
+        text-align: left;
+        margin: 0;
+        padding: 6px 13px;
+      }
+      th :first-child,
+      td :first-child {
+        margin-top: 0;
+      }
+      th :last-child,
+      td :last-child {
+        margin-bottom: 0;
+      }
+    }
+}
+
+/* -- Custom -- */
+.center {
+    text-align: center;
+}
+
+sup {
+    vertical-align: super;
+    font-size: 12px;
+}
+
+
+
+.post-header {
+  margin: 10px 0 30px;
+  h1 {
+    margin-bottom: 0;
+  }
+  p {
+    margin-top: 0px;
+  }
+}
+
+article.post {
+  p.date {
+    font-size: 15px;
+  }
+}
+
+.posts {
+  article.post {
+    margin-bottom: 30px;
+    h1 {
+      margin: 0;
+      color: $blue;
+      :hover {
+        color: $darkBlue;
+      }
+      line-height: initial;
+    }
+    p.date {
+      margin: 0;
+    }
+    p.entry {
+      margin: 0;
+      // line-height: 5px;
+    }
+  }
+}
+
+
+.img-center {
+  margin: 0 auto;
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  display:block;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
