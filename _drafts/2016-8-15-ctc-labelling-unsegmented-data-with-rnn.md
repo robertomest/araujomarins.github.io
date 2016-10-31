@@ -266,4 +266,4 @@ We can notice that the bias between valid set and train set is getting worse, sh
 
 ### Next steps
 
-In a matter of fact, we haven’t exploited increase the network depth yet. So in our next steps, we’ll try to apply the same dataset and cost function in deeper models, *i.e.*, with more layers.
+In a matter of fact, we haven’t exploited increasing the network depth yet. So in our next steps, we’ll try to apply the same dataset and cost function in deeper models, *i.e.*, with more layers.
