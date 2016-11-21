@@ -201,7 +201,7 @@ stack = tf.nn.rnn_cell.MultiRNNCell([cell] * num_layers,
                                     state_is_tuple=True)
 
 # The second output is the last state and we will no use that
-outputs, _ = tf.nn.dynamic_rnn(cell, inputs, seq_len, dtype=tf.float32)
+outputs, _ = tf.nn.dynamic_rnn(stack, inputs, seq_len, dtype=tf.float32)
 ```
 
 The argument `state_is_tuple` is set to `True` to avoid annoying warning (and will be the default in the next versions of Tensorflow). The code presented above is very straightforward.
