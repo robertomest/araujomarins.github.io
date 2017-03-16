@@ -49,7 +49,7 @@ Research area: Currently working with machine learning applied on condition-base
 
 Advisors: Sergio Lima Netto
 
-Keywords: machine learning, condtion-based maintenance
+Keywords: machine learning, condition-based maintenance
 
 ### 2011 - 2016
 
@@ -57,7 +57,7 @@ Keywords: machine learning, condtion-based maintenance
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil*
 
-Title: [Automatic fault classification on rotation machines using similarity based methods and Random Forest](/assets/docs/bsc_finalproject.pdf) [text in Portuguese]
+Title: [Automatic fault classification on rotation machines using similarity based methods and Random Forest](/assets/bsc_finalproject.pdf) [text in Portuguese]
 
 Advisor: Sergio Lima Netto and Felipe Moreira Lopes Ribeiro
 
@@ -86,13 +86,13 @@ Machine Learning - online course offered through Coursera (Duration: 55h)
 
 **Institution**: Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil
 
-**Research Area**: Algorithms for
+**Research Area**: Studied signal processing and machine learning techniques, such as random forest, svm, and similarity-based models. Developed algorithms for automatically detect faults on rotation machines.
 
 ### 2015 – 2016: Teacher Assistant of Linear Algebra
 
-*Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil.*
+**Institution**: Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil
 
-Activities: Give support to students in need and correct the exams.
+**Activities**: Give support to students in need and correct the exams.
 
 ### 2011 – 2012: Particular professor
 
@@ -101,16 +101,15 @@ Worked as particular professor, assisting in the study for college admission exa
 ## Research Projects
 ---
 
-### 2014
+### 2016 - present
 
-Researcher in collaboration project
+Researcher in collaboration project with Petrobras and COPPETEC.
 
-*Federal University of Rio de Janeiro (SMT) / Hewlett-Packard (HP Labs, Palo Alto)*
+*Federal University of Rio de Janeiro (SMT) / Petrobras / COPPETEC*
 
-Title: Multiple-Device Acoustic Localization (MeDAL)
+Title: Modeling, Simulations and Advanced Control of Pre-salt Replicating Platforms
 
-Activities: Research and development towards new solutions for acoustic localization of sound sources and sensors.
-
+Activities: Implemented a condition-based maintenance system for decision support using machine learning methods.
 
 ## Language
 ---
@@ -122,23 +121,10 @@ Activities: Research and development towards new solutions for acoustic localiza
 *	Signal processing
 *	Machine learning
 *	Deep learning
-* Speech recognition
-
-
+* Unsupervised Learning
 
 ## Publications
 ---
 
 1. Papers published in conferences
-  * RIBEIRO, J. G. ; QUINTANILHA, I. M. ; CAMPISTA, MIGUEL ELIAS M. ; COSTA, LUIS HENRIQUE M. K. . [Sistema para Monitoramento Descentralizado de Trânsito baseado em Redes Veiculares Infraestruturadas](https://www.gta.ufrj.br/ftp/gta/TechReports/JCC13.pdf). In: XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2013, Brasília. Trilha Principal e Salão de Ferramentas, 2013. p. 863-876. [paper in Portuguese]
-  * RIBEIRO JUNIOR, JOSE GERALDO ; QUINTANILHA, IGOR M. ; CAMPISTA, MIGUEL ELIAS M. ; COSTA, LUIS HENRIQUE M. K. . [Evaluation of an opportunistic collaborative traffic monitoring system](http://ieeexplore.ieee.org/abstract/document/6402879/?reload=true). In: 2012 IFIP Wireless Days (WD), 2012, Dublin. 2012 IFIP Wireless Days. p. 1-6.
-
-
-2. Technical productions
-  * AMORIM, B. D. C. G. ; QUINTANILHA, I. M. . Course of Web Development in Ruby on Rails. 2013.
-  * QUINTANILHA, I. M. ; ESTEVÃO FILHO, R. M. Introduction to Deep Learning with Applications. 2016.
-
-
-## Organization of events, conferences, and expos
----
-* BISCAINHO, L. W. P. ; MANNIS, J. A. ; ANSELMO, J. ; BRITO, J. ; QUINTANILHA, I. M. ; APOLINARIO, I. F. ; COSTA, M. V. M. . Regional Meeting of AES-Brazil. 2016.
+  * MARINS, M. A.; CHAVES, R. S.; PINHO, V. M. ; CUNHA, R. A. F.; CAMPOS, M. L. R. . [Tackling Fingerprinting Indoor Localization Using the LASSO and the Conjugate Gradient Algorithms](http://www.sbrt.org.br/sbrt2016/anais/ST13/1570278798.pdf). In: XXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém-Pará.
