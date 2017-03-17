@@ -5,7 +5,7 @@ permalink: /cv/
 id: cv
 ---
 
-[Complete](http://lattes.cnpq.br/3790573686920537) CV at Lattes platform (only in Portuguese)
+[Complete](http://lattes.cnpq.br/4476862527285936) CV at Lattes platform (only in Portuguese)
 
 ## Work Contact
 ---
