@@ -5,7 +5,7 @@ permalink: /cv/
 id: cv
 ---
 
-[Complete](http://lattes.cnpq.br/4476862527285936) CV at Lattes platform (only in Portuguese)
+[Complete](http://lattes.cnpq.br/6403520018476116) CV at Lattes platform (only in Portuguese)
 
 ## Work Contact
 ---
@@ -17,61 +17,50 @@ Av. Horácio Macedo, 2030, room H-221 – Cidade Universitária
 
 Tel/FAX.: +55 (21) 3938-8207
 
-Skype: matheusarauj0
-
-E-mail: matheusaraujo [at] poli [dot] ufrj [dot] br
+E-mail: robertomest [at] poli [dot] ufrj [dot] br
 
 ## Personal data
 ---
-Brazilian, male, single, 25 years old.
+Brazilian, male, single, 24 years old.
 
-Born in January 23, 1992 in São Gonçalo, RJ - Brazil.
+Born in January 28, 1993 in Rio de Janeiro, RJ - Brazil.
 
-**Name in bibliographic citations**: MARINS, M. A.; MARINS, MATHEUS A.
+**Name in bibliographic citations**: ESTEVÃO FILHO, R. M.; ESTEVÃO, ROBERTO DE M.; FILHO, ROBERTO M. E.
 
 ## Short biography
 ---
 
-I started my study in Electronics and Computing Engineering at Federal University of Rio de Janeiro (UFRJ) in January 2011. Then, I was selected to participate on a Brazilian Government project called Science Without Borders studying one year (July 2013 - May 2014) in Illinois Institute of Technology (IIT), Chicago, Illinois. When I returned to Brazil, I joined the Laboratory of Signals, Multimedia, and Telecommunications (SMT), starting my interest in the area of signal processing. In the second quarter of 2016 I started in the machine learning field, studying similarity-based methods to automatically detect faults on rotation machines, originating my B.Sc. final project. Then, I joined the M.Sc. course from COPPE/UFRJ in the Electrical Engineering Program (PEE) with an emphasis in machine learning. Nowadays I'm continuing my last project and starting my study of deep learning.
-
+I recieved my B.Sc. degree in Eletronics and Computing Engineering from the Federal University of Rio de Janeiro (UFRJ), Brazil, in 2016. From 2012 to 2014 I was a undergraduate student at the Laboratory for the Processing of Analog and Digital Signals (PADS) advised by Prof. José Gabriel Rodríguez Carneiro Gomes, where I worked on vector quantization for an CMOS Imager with focal plane compression. I am currently an M.Sc. student in the Eletric Engineering Program (PEE) at UFRJ. I am currently studying deep convolutional neural networks applied to computer vision. Other research interests include generative models, machine learning, and image and signal processing.
 ## Education
 ---
 
-### 2016 - present
+### 2015 - present
 
 **M.Sc. in Electrical Engineering**
 
 *Federal University of Rio de Janeiro, UFRJ, Brazil*
 
-Research area: Currently working with machine learning applied on condition-based maintenance.  
+Research area: Deep Convolutional Neural Networks applied to computer vision.  
 
-Advisors: Sergio Lima Netto
+Advisors: José Gabriel Rodríguez Carneiro Gomes
 
-Keywords: machine learning, condition-based maintenance
+Keywords: deep learning; convolutional neural networks; computer vision.
 
-### 2011 - 2016
+### 2010 - 2015
 
 **B.Sc. in Electronic and Computing Engineering**
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil*
 
-Title: [Automatic fault classification on rotation machines using similarity based methods and Random Forest](/assets/bsc_finalproject.pdf) [text in Portuguese]
+Title: [Codebook Calibration Method for Vector Quantizers Implemented at the Focal Plane of CMOS Imagers](/assets/bsc_finalproject.pdf) [text in Portuguese]
 
-Advisor: Sergio Lima Netto and Felipe Moreira Lopes Ribeiro
+Advisor: José Gabriel Rodríguez Carneiro Gomes
 
-Keywords: machine learning, random forest, fault diagnosis, predictive maintenance.
-
-### August 2013 - May 2014
-
-**B.Sc. in Computing Engineering**
-
-*Illinois Institute of Technology, IIT, Chicago, Illinois*
-
-Note: Spent one year studying Computing Engineering in IIT as part of a Brazilian Government Program called Science Without Borders.
+Keywords: image compression, CMOS imagers, focal plane, vector quantization.
 
 ## Complementary education
 ---
-### 2017 - 2017
+### 2016 - 2016
 
 Machine Learning - online course offered through Coursera (Duration: 55h)
 
@@ -80,49 +69,32 @@ Machine Learning - online course offered through Coursera (Duration: 55h)
 ## Professional/Research Background
 ---
 
-### 2014 – 2016: Scientific Initiation project at Signals, Multimedia, and Telecommunications Lab (SMT)
+### 2012 – 2014
+
+Scientific Initiation project at the Laboratory for Processing of Analog and Digital Signals (PADS)
 
 **Institution**: Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil
 
-**Research Area**: Studied signal processing and machine learning techniques, such as random forest, svm, and similarity-based models. Developed algorithms for automatically detect faults on rotation machines.
-
-### 2015 – 2016: Teacher Assistant of Linear Algebra
-
-**Institution**: Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil
-
-**Activities**: Give support to students in need and correct the exams.
-
-### 2011 – 2012: Particular professor
-
-Worked as particular professor, assisting in the study for college admission exams in the field of physics and mathematics.
-
-## Research Projects
----
-
-### 2016 - present
-
-Researcher in collaboration project with Petrobras and COPPETEC.
-
-*Federal University of Rio de Janeiro (SMT) / Petrobras / COPPETEC*
-
-Title: Modeling, Simulations and Advanced Control of Pre-salt Replicating Platforms
-
-Activities: Implemented a condition-based maintenance system for decision support using machine learning methods.
+**Research Area**: Vector Quantization.
 
 ## Language
 ---
 * Portuguese: native
-* English: advanced
+* English: proficient
 
 ## Research interests
 ---
-*	Signal processing
-*	Machine learning
-*	Deep learning
-* Unsupervised Learning
+*	Deep neural networks
+*	Generative modeling
+*	Image processing
+* Computer vision
+* Unsupervised learning
 
 ## Publications
 ---
-
-1. Papers published in conferences
-  * MARINS, M. A.; CHAVES, R. S.; PINHO, V. M. ; CUNHA, R. A. F.; CAMPOS, M. L. R. . [Tackling Fingerprinting Indoor Localization Using the LASSO and the Conjugate Gradient Algorithms](http://www.sbrt.org.br/sbrt2016/anais/ST13/1570278798.pdf). In: XXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém-Pará.
+1. Papers published in International Journals
+  * **FILHO, ROBERTO M. E.**; GOMES, JOSE GABRIEL R. C. ; PETRAGLIA, ANTONIO . [Codebook Calibration Method for Vector Quantizers Implemented at the Focal Plane of CMOS Imagers](http://ieeexplore.ieee.org/document/7088577/). IEEE Transactions on Circuits and Systems for Video Technology (Print), v. 26, p. 750-761, 2015.
+2. Papers published in conferences
+  * **ESTEVAO FILHO, ROBERTO DE M.**; PETRAGLIA, ANTONIO . [Codebook improvements for a CMOS imager with focal-plane vector quantization](http://ieeexplore.ieee.org/document/6519052/). In: 2013 IEEE 4th Latin American Symposium on Circuits and Systems (LASCAS), 2013, Cusco. 2013 IEEE 4th Latin American Symposium on Circuits and Systems (LASCAS). v. 1. p. 1-4.
+3. Presentations
+  * **FILHO, ROBERTO M. E.**; GOMES, J. G. R. C. ; PETRAGLIA, A. . Codebook Calibration Method for Vector Quantizers Implemented at the Focal Plane of CMOS Imagers. 2016. (Oral presentation).
