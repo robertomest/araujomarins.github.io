@@ -6,11 +6,11 @@ permalink: /
 
 Greetings,
 
-I'm **Matheus Marins** and I'm currently pursuing my master's degree at Federal University of Rio de Janeiro (UFRJ) in [Electric Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE).
+I'm **Matheus A. Marins** and I'm currently pursuing my master's degree at Federal University of Rio de Janeiro (UFRJ) in [Electric Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE).
 
 My research interest is in **machine learning**, and I'm starting my study in the field of **deep learning**.
 
-The reason I created this blog is to keep tracking of my development, and to share some of my research.
+The reason I created this page is to keep tracking of my development, and to share some of my research.
 
 Hope you all like it! See ya!
 

@@ -17,8 +17,6 @@ Av. Horácio Macedo, 2030, room H-221 – Cidade Universitária
 
 Tel/FAX.: +55 (21) 3938-8207
 
-Cellphone: +55 (21) 99928-9299
-
 Skype: matheusarauj0
 
 E-mail: matheusaraujo [at] poli [dot] ufrj [dot] br
@@ -34,7 +32,7 @@ Born in January 23, 1992 in São Gonçalo, RJ - Brazil.
 ## Short biography
 ---
 
-I started my study in Electronics and Computing Engineering at Federal University of Rio de Janeiro (UFRJ) in January 2011. Then, I was selected to participate on a Brazilian Government project called Science Without Borders studying one year (July 2013 - May 2014) in Illinois Institute of Technology (IIT), Chicago, Illinois. When I returned to Brazil, I joined the Laboratory of Signals, Multimedia, and Telecommunications (SMT), starting my interest in the area of signal processing. In the second quarter of 2016 started in the machine learning field, studying similarity-based methods to automatically detect faults on rotation machines, originating my B.Sc. final project. Then, I joined the M.Sc. course from COPPE/UFRJ in the Electrical Engineering Program (PEE) with an emphasis in machine learning. Nowadays I'm continuing my last project and starting my study of deep learning.
+I started my study in Electronics and Computing Engineering at Federal University of Rio de Janeiro (UFRJ) in January 2011. Then, I was selected to participate on a Brazilian Government project called Science Without Borders studying one year (July 2013 - May 2014) in Illinois Institute of Technology (IIT), Chicago, Illinois. When I returned to Brazil, I joined the Laboratory of Signals, Multimedia, and Telecommunications (SMT), starting my interest in the area of signal processing. In the second quarter of 2016 I started in the machine learning field, studying similarity-based methods to automatically detect faults on rotation machines, originating my B.Sc. final project. Then, I joined the M.Sc. course from COPPE/UFRJ in the Electrical Engineering Program (PEE) with an emphasis in machine learning. Nowadays I'm continuing my last project and starting my study of deep learning.
 
 ## Education
 ---
